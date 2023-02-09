@@ -1,0 +1,17 @@
+#map {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 18px
+}
+
+.flex-3-col {
+  flex: 1 0 31%;
+  margin: 4px;
+}
