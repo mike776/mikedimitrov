@@ -14,6 +14,10 @@
   name = "Photos"
   pageRef = "photos"
   weight = 10
+[[main]]
+  name = "Albums"
+  pageRef = "albums"
+  weight = 20
 
 #[[main]]
 #  name = "Parent"

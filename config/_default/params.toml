@@ -46,12 +46,12 @@ disableImageOptimization = false
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -72,18 +72,18 @@ disableImageOptimization = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
+  showCards = true
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
