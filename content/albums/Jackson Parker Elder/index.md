@@ -1,0 +1,13 @@
+---
+title: Jackson Parker Elder
+date: 2020-02-16
+draft: false
+description: "Jackson Parker Elder"
+slug: "Jackson Parker Elder"
+tags: ["advanced", "css", "docs"]
+series_order: 34
+---
+
+This is the collection of photos of Jackson Parker Elder our first grandson.
+
+[Jackson Parker Elder](https://photos.app.goo.gl/GFWQ92sg82WMV3Jx9)
