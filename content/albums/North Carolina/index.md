@@ -10,4 +10,4 @@ series_order: 31
 
 This is the collection of photos from our North Carolina trip with Michael and Dani.
 
-[North Carolina](https://photos.app.goo.gl/VBNsPPtiD2SbKKc97)
+[North Carolina Album](https://photos.app.goo.gl/VBNsPPtiD2SbKKc97)

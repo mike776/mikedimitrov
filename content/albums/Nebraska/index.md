@@ -10,4 +10,4 @@ series_order: 7
 
 This is the collection of photos from our Nebraska trip.
 
-[Nebraska](https://photos.app.goo.gl/nTpgko9tIFNs1TlM2)
+[Nebraska Album](https://photos.app.goo.gl/nTpgko9tIFNs1TlM2)

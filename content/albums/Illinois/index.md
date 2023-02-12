@@ -10,4 +10,4 @@ series_order: 9
 
 This is the collection of photos from our Illinois trip.
 
-[Illinois](https://goo.gl/photos/4vuPy3GBsLepXyxA7)
+[Illinois Album](https://goo.gl/photos/DQHhTSnwyzWGSepZA)

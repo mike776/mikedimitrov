@@ -10,4 +10,4 @@ series_order: 8
 
 This is the collection of photos from our Nebraska trip. We did have a flat tire there...
 
-[Wisconsin](https://photos.app.goo.gl/Bijrvkf1X3ucBeSo1)
+[Wisconsin Album](https://photos.app.goo.gl/Bijrvkf1X3ucBeSo1)

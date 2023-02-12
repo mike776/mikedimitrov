@@ -10,4 +10,4 @@ series_order: 2
 
 This is the collection of photos from our Kansas trip.
 
-[Kansas](https://photos.app.goo.gl/QSYuM0jtdHgvAo8L2)
+[Kansas Album](https://photos.app.goo.gl/QSYuM0jtdHgvAo8L2)

@@ -10,4 +10,4 @@ series_order: 20
 
 This is the collection of photos from our New Mexico trip.
 
-[New Mexico](https://photos.app.goo.gl/VPYjU8Mf7vSweZgcA)
+[New Mexico Album](https://photos.app.goo.gl/VPYjU8Mf7vSweZgcA)

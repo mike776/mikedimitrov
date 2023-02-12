@@ -10,4 +10,4 @@ series_order: 27
 
 This is the collection of photos from our Alaska trip.
 
-[Alaska](https://photos.app.goo.gl/x9gCXAfNfPJyt4zu9)
+[Alaska Album](https://photos.app.goo.gl/x9gCXAfNfPJyt4zu9)

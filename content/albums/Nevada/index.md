@@ -10,4 +10,4 @@ series_order: 22
 
 This is the collection of photos from our Nevada trip.
 
-[Nevada](https://photos.app.goo.gl/xUDGLBaCeFBhDzJG6)
+[Nevada Album](https://photos.app.goo.gl/xUDGLBaCeFBhDzJG6)

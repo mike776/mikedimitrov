@@ -10,4 +10,4 @@ series_order: 30
 
 This is the collection of photos from our Utah trip.
 
-[Utah](https://photos.app.goo.gl/S22USfSdhK2SjhN38)
+[Utah Album](https://photos.app.goo.gl/S22USfSdhK2SjhN38)

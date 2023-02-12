@@ -10,4 +10,4 @@ series_order: 10
 
 This is the collection of photos from our Indiana trip.
 
-[Indiana](https://goo.gl/photos/BteiVGFgudAuQCa37)
+[Indiana Album](https://goo.gl/photos/BteiVGFgudAuQCa37)
