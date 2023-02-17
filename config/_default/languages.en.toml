@@ -14,12 +14,12 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Mike Dimitrov"
-image = "img/author2.jpg"
+image = "/favicon-32x32.png"
 headline = "This is our traveling site"
 bio = "I am Semi retired Engineer"
 links = [
   { twitter = "https://twitter.com/HQBW" },
-  { email = "mailto:me@mikedimitrov.com" }
+  { envelope = "mailto:me@mikedimitrov.com" }
 ]
 
 #   links = [
