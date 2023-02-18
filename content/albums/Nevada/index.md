@@ -10,4 +10,7 @@ series_order: 22
 
 This is the collection of photos from our Nevada trip.
 
+### Participants:
+Mike, Tina
+
 [Nevada Album](https://photos.app.goo.gl/xUDGLBaCeFBhDzJG6)

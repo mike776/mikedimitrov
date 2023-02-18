@@ -10,4 +10,7 @@ series_order: 23
 
 This is the collection of photos from our California trip.
 
+### Participants:
+Mike, Tina
+
 [California Album](https://photos.app.goo.gl/PzF3BvGu9qYuZV3z5)

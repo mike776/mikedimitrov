@@ -9,6 +9,7 @@ series_order: 36
 ---
 
 This is the collection of photos from our Mexico trip.
+
 ### Participants:
 Mike, Tina, Dani, Dimitar, Alexandra
 

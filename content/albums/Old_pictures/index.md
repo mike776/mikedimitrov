@@ -10,4 +10,7 @@ series_order: 1
 
 This is the collection of photos from our wedding and from the past...
 
+### Participants:
+Mike, Tina, Dragomir, Teodora, Ivelin, Milena
+
 [Old pictures Album](https://goo.gl/photos/C6dLpvw6ZAZkUcNh9)

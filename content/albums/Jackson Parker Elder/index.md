@@ -9,6 +9,7 @@ series_order: 34
 ---
 
 This is the collection of photos of Jackson Parker Elder our first grandson.
+
 ### Participants:
 Jackson, Dani, Heather, Mike, Tina, Anthony, Janet, Dennis
 

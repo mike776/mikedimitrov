@@ -10,4 +10,7 @@ series_order: 18
 
 This is the collection of photos from our Georgia trip.
 
+### Participants:
+Mike, Tina, Dimitar, Pavel, Katia
+
 [Georgia Album](https://photos.app.goo.gl/cpRQD3Jwg7tsSJhV6)

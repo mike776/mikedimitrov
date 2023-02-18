@@ -10,4 +10,6 @@ series_order: 12
 
 This is the collection of photos from our Kentucky trip. we observed the solar eclipse.
 
+### Participants:
+Mike, Tina. Dimitar, Dani, Samantha, Jimmy, Marty
 [Kentucky Album](https://goo.gl/photos/6sUodG3pRPgFhgNC8)

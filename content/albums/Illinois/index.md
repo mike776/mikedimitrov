@@ -10,4 +10,7 @@ series_order: 9
 
 This is the collection of photos from our Illinois trip.
 
+### Participants:
+Mike, Tina
+
 [Illinois Album](https://goo.gl/photos/DQHhTSnwyzWGSepZA)

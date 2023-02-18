@@ -10,4 +10,7 @@ series_order: 10
 
 This is the collection of photos from our Indiana trip.
 
+### Participants:
+Mike, Tina
+
 [Indiana Album](https://goo.gl/photos/BteiVGFgudAuQCa37)

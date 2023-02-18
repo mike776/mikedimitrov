@@ -10,4 +10,7 @@ series_order: 25
 
 This is the collection of photos from our Oregon trip.
 
+### Participants:
+Mike, Tina, Nikolai
+
 [Oregon Album](https://photos.app.goo.gl/8KeXtgAFYHpfEQ2M8)

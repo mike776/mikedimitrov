@@ -9,6 +9,7 @@ series_order: 27
 ---
 
 This is the collection of photos from our Dominican trip.
+
 ### Participants:
 Mike, Tina, Dani, Dimitar, Ilko, Vessela, Alexandra
 
