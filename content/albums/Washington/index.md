@@ -10,4 +10,7 @@ series_order: 26
 
 This is the collection of photos from our Washington State trip, to our way to Alaska.
 
+### Participants:
+Mike, Tina
+
 [Washington State Album](https://photos.app.goo.gl/LTXLkvRw2hota1n57)

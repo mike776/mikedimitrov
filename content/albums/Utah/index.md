@@ -10,4 +10,7 @@ series_order: 30
 
 This is the collection of photos from our Utah trip.
 
+### Participants:
+Mike, Tina
+
 [Utah Album](https://photos.app.goo.gl/S22USfSdhK2SjhN38)

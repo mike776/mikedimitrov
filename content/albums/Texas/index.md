@@ -10,4 +10,7 @@ series_order: 2
 
 This is the collection of photos from our Texas trip.
 
+### Participants:
+Mike, Tina
+
 [Texas Album](https://goo.gl/photos/4vuPy3GBsLepXyxA7)
