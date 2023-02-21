@@ -17,14 +17,14 @@ enableCodeCopy = false
 
 disableImageOptimization = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
+defaultBackgroundImage = "/IMAGE.jpg" # used as default for background images
 
 highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+  layout = "fixed" # valid options: basic, fixed
 
 [footer]
   showMenu = true
@@ -35,7 +35,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "/IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
