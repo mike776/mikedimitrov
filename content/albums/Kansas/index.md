@@ -1,5 +1,5 @@
 ---
-title: "Kansas"
+title: Kansas, KS
 date: 2017-07-11
 draft: false
 description: "Kansas"

@@ -1,5 +1,5 @@
 ---
-title: Washington
+title: Washington, WA
 date: 2018-07-30
 draft: false
 description: "Washington"

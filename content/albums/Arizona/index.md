@@ -1,5 +1,5 @@
 ---
-title: Arizona
+title: Arizona, AZ
 date: 2018-07-05
 draft: false
 description: "Arizona"

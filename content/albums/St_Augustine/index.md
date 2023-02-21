@@ -1,5 +1,5 @@
 ---
-title: St. Augustine
+title: St. Augustine, FL
 date: 2018-02-03
 draft: false
 description: "St. Augustine"

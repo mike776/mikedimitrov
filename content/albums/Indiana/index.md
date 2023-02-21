@@ -1,5 +1,5 @@
 ---
-title: Indiana
+title: Indiana, IN
 date: 2017-08-08
 draft: false
 description: "Indiana"

@@ -1,5 +1,5 @@
 ---
-title: Kentucky
+title: Kentucky, KY
 date: 2017-08-15
 draft: false
 description: "Kentucky"

@@ -1,5 +1,5 @@
 ---
-title: "Oklahoma"
+title: Oklahoma, OK
 date: 2017-07-06
 draft: false
 description: "Oklahoma"

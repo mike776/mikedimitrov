@@ -1,5 +1,5 @@
 ---
-title: New Mexico
+title: New Mexico, NM
 date: 2018-07-01
 draft: false
 description: "New Mexico"

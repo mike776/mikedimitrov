@@ -1,5 +1,5 @@
 ---
-title: Idaho
+title: Idaho, ID
 date: 2018-08-15
 draft: false
 description: "Idaho"

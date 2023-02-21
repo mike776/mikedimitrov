@@ -1,5 +1,5 @@
 ---
-title: "Iowa"
+title: Iowa, IA
 date: 2017-07-18
 draft: false
 description: "Iowa"

@@ -1,5 +1,5 @@
 ---
-title: Illinois
+title: Illinois, IL
 date: 2017-08-01
 draft: false
 description: "Illinois"

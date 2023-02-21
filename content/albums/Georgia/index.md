@@ -1,5 +1,5 @@
 ---
-title: Georgia
+title: Georgia, GA
 date: 2018-06-18
 draft: false
 description: "Georgia"

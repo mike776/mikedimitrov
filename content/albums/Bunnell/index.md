@@ -1,5 +1,5 @@
 ---
-title: "Bunnell"
+title: Bunnell, FL
 date: 2017-01-17
 draft: false
 description: "Bunnell FL"

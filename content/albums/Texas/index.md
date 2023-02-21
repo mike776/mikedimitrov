@@ -1,5 +1,5 @@
 ---
-title: "Texas"
+title: Texas, TX
 date: 2017-06-22
 draft: false
 description: "TEXAS"

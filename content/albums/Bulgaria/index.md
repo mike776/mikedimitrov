@@ -1,5 +1,5 @@
 ---
-title: Bulgaria
+title: Bulgaria, BG
 date: 2017-09-18
 draft: false
 description: "Bulgaria"

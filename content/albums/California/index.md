@@ -1,5 +1,5 @@
 ---
-title: California
+title: California, CA
 date: 2018-07-11
 draft: false
 description: "California"

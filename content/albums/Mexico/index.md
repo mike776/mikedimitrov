@@ -1,5 +1,5 @@
 ---
-title: Mexico
+title: Mexico, MX
 date: 2006-12-06
 draft: false
 description: "Mexico"

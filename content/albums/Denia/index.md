@@ -1,5 +1,5 @@
 ---
-title: Denia Spain
+title: Denia ES
 date: 2007-04-14
 draft: false
 description: "Denia"

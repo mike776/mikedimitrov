@@ -1,5 +1,5 @@
 ---
-title: North Carolina
+title: North Carolina, NC
 date: 2018-08-20
 draft: false
 description: "North Carolina"

@@ -1,5 +1,5 @@
 ---
-title: "Wisconsin"
+title: Wisconsin, WI
 date: 2017-08-28
 draft: false
 description: "Wisconsin"

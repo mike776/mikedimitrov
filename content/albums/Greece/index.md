@@ -1,5 +1,5 @@
 ---
-title: Greece
+title: Greece, GR
 date: 2017-09-16
 draft: false
 description: "Greece"

@@ -1,5 +1,5 @@
 ---
-title: "Nebraska"
+title: Nebraska, NE
 date: 2017-07-18
 draft: false
 description: "Nebraska"

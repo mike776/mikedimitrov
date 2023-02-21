@@ -1,5 +1,5 @@
 ---
-title: "Louisiana"
+title: Louisiana, LA
 date: 2017-06-07
 draft: false
 description: "Louisiana"

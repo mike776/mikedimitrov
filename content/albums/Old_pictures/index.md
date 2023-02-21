@@ -1,5 +1,5 @@
 ---
-title: "Old Pictures (BG and USA)"
+title: Old Pictures (BG and USA)
 date: 1987-06-03
 draft: false
 description: "Old Pictures"

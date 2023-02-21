@@ -1,5 +1,5 @@
 ---
-title: Oregon
+title: Oregon, OR
 date: 2018-07-29
 draft: false
 description: "Oregon"
