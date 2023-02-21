@@ -9,6 +9,7 @@ series_order: 27
 ---
 
 This is the collection of photos from our Alaska trip.
+
 ### Participants:
 Mike, Tina
 

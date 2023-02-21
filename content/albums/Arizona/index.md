@@ -10,4 +10,7 @@ series_order: 21
 
 This is the collection of photos from our Arizona trip.
 
+### Participants:
+Mike, Tina
+
 [Arizona Album](https://photos.app.goo.gl/zKBygHBgaP4qAwwbA)
