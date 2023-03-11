@@ -7,3 +7,4 @@ description: "Our traveling site."
 The first RV that we owned and traveled with was the "Newmar Dutch Star"
 {{< carousel directory="gallery" >}}
 Our new baby is the "East to West Alta 2810 KIK"
+{{< carousel directory="gallery02" >}}

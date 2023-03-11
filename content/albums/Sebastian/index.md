@@ -8,7 +8,7 @@ tags: ["advanced", "css", "docs"]
 series_order: 27
 ---
 
-This is the collection of photos from our Sebastian Inlet trip.
+This is the collection of photos from our Sebastian Inlet trips, January 2023 and March 2023. It will be the last time we going there, too many _"No-See-Ums"_, and they are very aggressive and annoying.
 
 ### Participants:
 Mike, Tina, Dani, Jackson
